@@ -10,9 +10,7 @@
   ],
   "files": [
     "main.js",
-    "eslintrc.json",
-    "README.md",
-    "LICENCE"
+    "eslintrc.json"
   ],
   "repository": {
     "type": "git",
