@@ -6,7 +6,7 @@
   "keywords": [
     "js-slave",
     "js-slave-manager",
-    "esent-config-js-slave",
+    "esent-config-js-slave"
   ],
   "files": [
     "main.js",
