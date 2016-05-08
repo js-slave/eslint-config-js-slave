@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "js-slave JavaScript standard coding rules",
   "main": "main.js",
+  "keywords": [
+    "js-slave",
+    "js-slave-manager",
+    "esent-config-js-slave",
+  ],
   "files": [
     "main.js",
     "eslintrc.json",
@@ -14,7 +19,10 @@
     "url": "https://github.com/js-slave/eslint-config-js-slave.git"
   },
   "author": "lludol",
-  "license": "MIT",
+  "license": {
+      "type": "GNU GPLv3",
+      "url": "http://www.gnu.org/copyleft/gpl.html"
+  },
   "peerDependencies": {
     "eslint": "^2.9.0"
   }
