@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-js-slave",
+  "version": "0.0.1",
+  "description": "js-slave JavaScript standard coding rules",
+  "main": "main.js",
+  "files": [
+    "main.js",
+    "eslintrc.json",
+    "README.md",
+    "LICENCE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-slave/eslint-config-js-slave.git"
+  },
+  "author": "lludol",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^2.9.0"
+  }
+}
